@@ -12,13 +12,11 @@
 
 - 🔭 I’m currently working on **Educational App and website**
 
-- 👯 I’m looking to collaborate on **Reactjs, React Native, Typescript, Javascript, Nextjs projects**
-
-- 🤝 I’m looking for help with **Reactjs, React Native, Typescript, MERN etc**
+- 👯 I’m looking to collaborate on **Html, Css, Reactjs, React Native, Typescript, Javascript, Nextjs projects**
 
 - 👨‍💻 All of my projects are available at [https://www.showwcase.com/josh-peter](https://www.showwcase.com/josh-peter)
 
-- 💬 Ask me about **React Native,**
+- 💬 Ask me about **Html, Css, Reactjs, React Native, Typescript, Tailwind, React NativeWind, MUI, Nextjs etc**
 
 - 📫 How to reach me **joshuapetertolu@gmail.com**
 
