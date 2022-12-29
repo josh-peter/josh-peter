@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Joshua Peter</h1>
 <h3 align="center">A passionate mobile & frontend Developer from Nigeria</h3>
-<img align="center" alt="Coding" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="center" style={{margin: "0 auto"}} alt="Coding" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-peter&label=Profile%20views&color=0e75b6&style=flat" alt="josh-peter" /> </p>
